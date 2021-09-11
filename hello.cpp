@@ -6,6 +6,7 @@ int main(){
     cout << "Enter you name:";
     cin >> name;
     str = "Hello, " + name + "!\n";//use string like int in C
+    
     cout << str;
     cout << "Hello World!!\n" << "Your name has " << name.size() << " characters." << endl;
     //endl has the same function as "\n"
