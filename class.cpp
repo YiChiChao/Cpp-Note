@@ -78,3 +78,8 @@ int main(){
 
 
 }
+
+/*OUTPUT
+The rational number is 11 / 15
+The decimal number is 0.733333
+*/
