@@ -1,6 +1,6 @@
 #include<iostream>
 #include<iomanip>//setw()
-#include<algorithm>//for_each()
+#include<algorithm>
 #include<vector>//push_back()
 using namespace std;
 
